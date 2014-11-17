@@ -9,7 +9,7 @@ There are a number of excellent Node-based implementations of MQTT available, I 
 
 run `node index.js`, by default the client will connect and publish to a public / test MQTT broker, `test.mosquitto.org`
 
-Currently supported/functioning methods are:
+Currently supported functionality includes:
 
 * connect
 * disconnect
@@ -17,10 +17,11 @@ Currently supported/functioning methods are:
 * unsubscribe
 * publish
 * ping (keep alive)
+* very basic response identification / handling
 
 To Do:
 
-* Response handling 
+* Full response handling 
 * QOS
 * TLS & Authentication support
 
