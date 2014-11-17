@@ -1,0 +1,19 @@
+{
+  "name": "mqtt-client",
+  "version": "0.5.0",
+  "description": "A simple client implementation for MQTT",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "mqtt",
+    "pubsub",
+    "iot"
+  ],
+  "author": "Dana",
+  "license": "MIT"
+}
