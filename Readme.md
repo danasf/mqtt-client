@@ -5,7 +5,7 @@ There are a number of excellent Node-based implementations of MQTT available, I 
 
 ## Usage
 
-run `node index.js`, by default the server connects and publishes to a public / test MQTT broker, `test.mosquitto.org`
+run `node index.js`, by default the client will connect and publish to a public / test MQTT broker, `test.mosquitto.org`
 
 Currently supported methods are:
 
